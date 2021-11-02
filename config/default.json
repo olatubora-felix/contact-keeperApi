@@ -1,0 +1,4 @@
+{
+  "mongoURL" : "mongodb+srv://felonzo1:felix4christ@contactkeeper.8d8r5.mongodb.net/contactKeeperApi?retryWrites=true&w=majority",
+  "jwtSecret" : "secret"
+}
